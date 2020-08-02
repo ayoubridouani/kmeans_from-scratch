@@ -1,4 +1,5 @@
-# kmeans_from_scratch
+## Description:
+Building the kmeans algorithm from scratch 
 
 to contact me: ridouaniayoub@gmail.com
 
